@@ -15,11 +15,12 @@ An awesome list for Unreal Engine, especially for the built-in plugins.
 * 🥉 : 3rd Place
 
 ### Tags
-* 🎮 : Gameplay
-* 💻 : Software (🖥️)
-* 🎥 : Cinema, Virtual Production (🎦)
-* 🎲 : Randomization, Generation
-* Others: 💎, 🔥
+* 🎮 : Game
+* 🎥 : Cinema, Virtual Production (Film / Video & Live Events)
+* 🏛️ : Architecture
+* ⚙️ : Automotive Production Design & Manufacturing
+* ✈️ : Simulation
+* Others: 💻, 🎲, 💎, 🔥
 
 ## Table of Contents
 * [Gameplay](#gameplay) 
