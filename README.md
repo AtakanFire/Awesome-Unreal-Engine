@@ -36,7 +36,7 @@ Framework & Gameplay Plugins
   * Attribute, Ability, Effect, Cue (Vfx / Sfx), etc.
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine) (🆓 🥇)
   * [GASDocumentation by tranek](https://github.com/tranek/GASDocumentation) (❤️ 🆓 🥇)
-  * Lyra & ARPG Sample Projects (🆓 🥇)
+  * [Lyra](https://www.fab.com/listings/93faede1-4434-47c0-85f1-bf27c0820ad0) & ARPG Sample Projects (🆓 🥇)
 * **Targeting System Plugin**
   * Targeting (Actor Selection / Tracing & Filtering) by Data-driven targeting requests (Data Assets)
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-targeting-system-in-unreal-engine) (🆓 🥇)
@@ -58,7 +58,7 @@ Framework & Gameplay Plugins
   * [Working with Data (Unreal Engine Learning)](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more#howtomakeinstanceobjects) (🆓 🥇)
   * [Generic Itemization by Matthew Boatswain](https://github.com/mattyman174/GenericItemization) (❤️ 🆓 🥇)  
 * *Future*
-  * *Online Services (aka Online Subsystem v2)* - Lyra Sample
+  * *Online Services (aka Online Subsystem v2)* - [Lyra Sample](https://www.fab.com/listings/93faede1-4434-47c0-85f1-bf27c0820ad0) 
   * *Contextual Animation Plugin* - [Blog by Alvaro Jover-Alvarez](https://vorixo.github.io/devtricks/contextual-anim/)
   * *Gameplay Cameras* - [Unreal Engine Roadmap](https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/c/1591-gameplay-cameras)
   * *Mutable* - [Unreal Engine Roadmap](https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/c/1628-mutable-customizable-characters-and-meshes-beta)
@@ -67,11 +67,18 @@ Framework & Gameplay Plugins
   * *Anim Next*
 
 Also check out these:
-Niagara, Enhanced Input, Control Rig & Modular Control Rig, Environment Query System (EQS), Take Recorder, Editor Utilities, Data Table/Asset/Registry and many more...
+Niagara / Niagara Fluids, Enhanced Input, Control Rig & Modular Control Rig, Environment Query System (EQS), Take Recorder, Editor Utilities, Data Table/Asset/Registry and many more...
 
 ## Level Design
 * **Procedural Content Generation (PCG)**
+  * Create your Level with Procedural Tools
+  * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation--framework-in-unreal-engine) & [Electric Dream Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-in-electric-dreams) (🆓 🥇)
+  * [Unreal Engine Tutorial](https://www.youtube.com/watch?v=j3ke6MmcaeY) & [Indoor Environment](https://www.youtube.com/watch?v=FW5U_IsV3Pw) 
 * **Geometry Scripting**
+  * Create your Modelling Tool or Mesh with Tools
+  * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-and-geometry-scripting-in-unreal-engine) (🆓 🥇)
+* **Scriptable Tools**
+  * Create and Customize Level Design tool
 * **Motion Design**
 * **Water**
 * **Lightweight Instances Editor**
