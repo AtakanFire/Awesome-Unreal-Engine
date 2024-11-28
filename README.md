@@ -25,6 +25,7 @@ An awesome list for Unreal Engine, especially for the built-in plugins.
 ## Table of Contents
 * [Gameplay](#gameplay) 
 * [Level Design](#level-design) 
+* [Art](#art) 
 * [UI](#ui)
 * [Audio](#audio) 
 * [Extras](#extras) 
@@ -83,6 +84,11 @@ Niagara / Niagara Fluids, Enhanced Input, Control Rig & Modular Control Rig, Env
 * **Water**
 * **Lightweight Instances Editor**
 * **Actor Palette**
+
+## Art
+* **Texture Graph** (🥉 🎮)
+  * Create Texture like Substance Designer.
+  * [Unreal Engine Learning](https://dev.epicgames.com/community/learning/tutorials/z0VJ/unreal-engine-getting-started-with-texture-graph) (🆓 🥉)
 
 ## UI
 * **Common UI**
