@@ -38,6 +38,7 @@ Framework & Gameplay Plugins
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine) (🆓 🥇)
   * [GASDocumentation by tranek](https://github.com/tranek/GASDocumentation) (❤️ 🆓 🥇)
   * [Lyra](https://www.fab.com/listings/93faede1-4434-47c0-85f1-bf27c0820ad0) & ARPG Sample Projects (🆓 🥇)
+  * Multiplayer: [Gameplay Ability System in Multiplayer Games](https://www.youtube.com/watch?v=WyyUPqdZQfU), [Using the Gameplay Ability System](https://www.youtube.com/watch?v=_713CSOWkTU), [Gameplay Abilities Meet Behavior Trees](https://www.youtube.com/watch?v=1Dm1G6fUuFs), [A Guided Tour of Gameplay Abilities](https://www.youtube.com/watch?v=YvXvWa6vbAA)
 * **Targeting System Plugin**
   * Targeting (Actor Selection / Tracing & Filtering) by Data-driven targeting requests (Data Assets)
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-targeting-system-in-unreal-engine) (🆓 🥇)
