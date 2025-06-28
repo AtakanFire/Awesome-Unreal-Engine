@@ -61,8 +61,10 @@ Framework & Gameplay Plugins
   * [Working with Data (Unreal Engine Learning)](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more#howtomakeinstanceobjects) (🆓 🥇)
   * [Generic Itemization by Matthew Boatswain](https://github.com/mattyman174/GenericItemization) (❤️ 🆓 🥇)
 * **Gameplay Cameras**
+  * Define your complex camera behaviors
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-camera-system) (🆓 ❓)
 * *Mutable*
+  * Create your Modular Character in Runtime
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/mutable-overview-in-unreal-engine) (🆓 ❓)
   * [Mutable-Documentation by anticto](https://github.com/anticto/Mutable-Documentation/wiki) (🆓 ❓)
 * *Future*
