@@ -87,15 +87,18 @@ Niagara / Niagara Fluids, Enhanced Input, Control Rig & Modular Control Rig, Env
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-and-geometry-scripting-in-unreal-engine) (🆓 🥇)
 * **Scriptable Tools**
   * Create and Customize your Level Design Tools
-* **Motion Design**
-* **Water**
-* **Lightweight Instances Editor**
-* **Actor Palette**
+  * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/scriptable-tools-system-in-unreal-engine) (🆓 🥇)
+ 
+Also check out these:
+Actor Palette, Water, Lightweight Instances Editor
 
 ## Art
 * **Texture Graph** (🥉 🎮)
   * Create Texture like Substance Designer.
   * [Unreal Engine Learning](https://dev.epicgames.com/community/learning/tutorials/z0VJ/unreal-engine-getting-started-with-texture-graph) (🆓 🥉)
+
+Also check out these:
+Motion Design
 
 ## UI
 * **Common UI**
