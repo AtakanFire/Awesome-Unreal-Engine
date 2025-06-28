@@ -13,6 +13,7 @@ An awesome list for Unreal Engine, especially for the built-in plugins.
 * 🥇 : 1st Place  
 * 🥈 : 2nd Place
 * 🥉 : 3rd Place
+* ❓ : Unknown Place (Not tested)
 
 ### Tags
 * 🎮 : Game
@@ -52,18 +53,21 @@ Framework & Gameplay Plugins
   * Interaction (Reservation) system for Player and AI interactable objects.
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/smart-objects-in-unreal-engine) (🆓 🥇)
 * **Mass AI, Instanced Actors & Zone Graph**
-  * Data-oriented design (Similar to Entity Component System)
+  * Data-oriented design (Similar to Entity Component System (ECS))
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/mass-entity-in-unreal-engine) (🆓 🥇) 
 * **Struct Utils Plugin**
   * Instanced Struct Framework
   * [Unreal Engine Documentation](https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/c/1625-struct-utils) is not available!
   * [Working with Data (Unreal Engine Learning)](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more#howtomakeinstanceobjects) (🆓 🥇)
-  * [Generic Itemization by Matthew Boatswain](https://github.com/mattyman174/GenericItemization) (❤️ 🆓 🥇)  
+  * [Generic Itemization by Matthew Boatswain](https://github.com/mattyman174/GenericItemization) (❤️ 🆓 🥇)
+* **Gameplay Cameras**
+  * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-camera-system) (🆓 ❓)
+* *Mutable*
+  * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/mutable-overview-in-unreal-engine) (🆓 ❓)
+  * [Mutable-Documentation by anticto](https://github.com/anticto/Mutable-Documentation/wiki) (🆓 ❓)
 * *Future*
   * *Online Services (aka Online Subsystem v2)* - [Lyra Sample](https://www.fab.com/listings/93faede1-4434-47c0-85f1-bf27c0820ad0) 
   * *Contextual Animation Plugin* - [Blog by Alvaro Jover-Alvarez](https://vorixo.github.io/devtricks/contextual-anim/)
-  * *Gameplay Cameras* - [Unreal Engine Roadmap](https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/c/1591-gameplay-cameras)
-  * *Mutable* - [Unreal Engine Roadmap](https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/c/1628-mutable-customizable-characters-and-meshes-beta)
   * *Mover 2.0 Plugin* - [Unreal Engine Youtube](https://www.youtube.com/watch?v=P4IKS5k47Wg)
   * *Common Conversation Plugin* - [Common Conversation Youtube Tutorial by Il Canale Che Non C'è](https://www.youtube.com/watch?v=l-k3ymFdA10)
   * *Anim Next*
@@ -73,14 +77,14 @@ Niagara / Niagara Fluids, Enhanced Input, Control Rig & Modular Control Rig, Env
 
 ## Level Design
 * **Procedural Content Generation (PCG)**
-  * Create your Level with Procedural Tools
+  * Create your Level with Procedural Generation Tool
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation--framework-in-unreal-engine) & [Electric Dream Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-in-electric-dreams) (🆓 🥇)
   * [Unreal Engine Tutorial](https://www.youtube.com/watch?v=j3ke6MmcaeY) & [Indoor Environment](https://www.youtube.com/watch?v=FW5U_IsV3Pw) 
 * **Geometry Scripting**
-  * Create your Modelling Tool or Mesh with Tools
+  * Create your Geometry / Meshes / Models by Coding (i.e. Blueprint)
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/modeling-and-geometry-scripting-in-unreal-engine) (🆓 🥇)
 * **Scriptable Tools**
-  * Create and Customize Level Design tool
+  * Create and Customize your Level Design Tools
 * **Motion Design**
 * **Water**
 * **Lightweight Instances Editor**
