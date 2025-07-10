@@ -114,7 +114,7 @@ Actor Palette, Lightweight Instances Editor
 * **Common UI** (🥉 🎮)
   * Create Game / Platform Independent UI
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-documentation) (🆓 🥇)
-* **UMG Viewmodel**
+* **UMG Viewmodel (MVVM - Model View Viewmodel)** (🥉 🎮)
   * [Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-viewmodel-for-unreal-engine) (🆓 🥇)
 * **Electra Player**
 
